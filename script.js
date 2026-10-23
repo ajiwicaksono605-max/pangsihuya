@@ -1,5 +1,5 @@
 // Ganti nomor berikut dengan nomor WhatsApp bisnis Pangsihuya, format internasional tanpa tanda +.
-const WHATSAPP_NUMBER = "6281234567890";
+const WHATSAPP_NUMBER = "6282153256491";
 
 const productSelect = document.getElementById("product");
 const quantityInput = document.getElementById("quantity");
